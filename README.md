@@ -10,6 +10,7 @@ converties en JSON.
 | 1.0 | [`IAB_Content_Categories_EN_v1.0.json`](IAB_Content_Categories_EN_v1.0.json) | 392 | dict plat `code → libellé` |
 | 2.0 | [`IAB_Content_Categories_EN_v2.0.json`](IAB_Content_Categories_EN_v2.0.json) | 1179 | arbre `children` |
 | 2.1 | [`IAB_Content_Categories_EN_v2.1.json`](IAB_Content_Categories_EN_v2.1.json) | 1179 | arbre `children` |
+| 2.2 | [`IAB_Content_Categories_EN_v2.2.json`](IAB_Content_Categories_EN_v2.2.json) | 1196 | arbre `children` |
 
 ## Formats
 
