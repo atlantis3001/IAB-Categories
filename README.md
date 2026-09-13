@@ -5,6 +5,8 @@ converties en JSON.
 
 ## Versions disponibles
 
+La **3.1** est la version courante publiée par l'IAB Tech Lab. Il n'existe ni 4.x ni 5.x.
+
 | Version | Fichier | Catégories | Format |
 |---|---|---|---|
 | 1.0 | [`IAB_Content_Categories_EN_v1.0.json`](IAB_Content_Categories_EN_v1.0.json) | 392 | dict plat `code → libellé` |
@@ -13,6 +15,7 @@ converties en JSON.
 | 2.2 | [`IAB_Content_Categories_EN_v2.2.json`](IAB_Content_Categories_EN_v2.2.json) | 1196 | arbre `children` |
 | 3.0 | [`IAB_Content_Categories_EN_v3.0.json`](IAB_Content_Categories_EN_v3.0.json) | 703 | arbre `children` |
 | 3.0 | [`IAB_Content_Vectors_EN_v3.0.json`](IAB_Content_Vectors_EN_v3.0.json) | 47 | arbre `children`, champ `extension` |
+| 3.1 | [`IAB_Content_Categories_EN_v3.1.json`](IAB_Content_Categories_EN_v3.1.json) | 704 | arbre `children` |
 
 ## Formats
 
