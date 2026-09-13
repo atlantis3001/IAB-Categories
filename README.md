@@ -11,6 +11,8 @@ converties en JSON.
 | 2.0 | [`IAB_Content_Categories_EN_v2.0.json`](IAB_Content_Categories_EN_v2.0.json) | 1179 | arbre `children` |
 | 2.1 | [`IAB_Content_Categories_EN_v2.1.json`](IAB_Content_Categories_EN_v2.1.json) | 1179 | arbre `children` |
 | 2.2 | [`IAB_Content_Categories_EN_v2.2.json`](IAB_Content_Categories_EN_v2.2.json) | 1196 | arbre `children` |
+| 3.0 | [`IAB_Content_Categories_EN_v3.0.json`](IAB_Content_Categories_EN_v3.0.json) | 703 | arbre `children` |
+| 3.0 | [`IAB_Content_Vectors_EN_v3.0.json`](IAB_Content_Vectors_EN_v3.0.json) | 47 | arbre `children`, champ `extension` |
 
 ## Formats
 
@@ -41,6 +43,25 @@ ici sous forme d'arbre :
   *Sensitive Category Designation*.
 - `children` est toujours présent, vide sur les feuilles.
 - L'ordre des nœuds suit celui du TSV source.
+
+### Descriptive Vectors
+
+La 3.0 s'accompagne d'un fichier annexe, les *Descriptive Vectors*, qui ne décrit pas
+le sujet du contenu mais sa forme : environnement de diffusion, intention, source,
+format, niveau de risque pour la marque. Ses IDs n'entrent pas en collision avec ceux
+des catégories 3.0, les deux fichiers peuvent donc être utilisés ensemble.
+
+Sa colonne `Extension` ne contient pas un flag SCD mais du texte libre. Il porte donc
+un champ `extension` (chaîne ou `null`) à la place de `scd` :
+
+```json
+{
+  "id": "1030",
+  "name": "*Content Language Extension",
+  "extension": "See ISO-639-1-alpha-2",
+  "children": []
+}
+```
 
 ## Régénérer les fichiers
 
