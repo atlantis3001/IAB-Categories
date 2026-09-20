@@ -1,0 +1,293 @@
+[
+  {
+    "id": "1000",
+    "name": "Content Environment",
+    "extension": null,
+    "children": [
+      {
+        "id": "1002",
+        "name": "Email",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "1003",
+        "name": "Forum/Community",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "1005",
+        "name": "Marketplace/eCommerce",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "1006",
+        "name": "Search Engine/Listings",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "1007",
+        "name": "Social",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "1008",
+        "name": "Utility/Online Tool",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "1009",
+        "name": "Voice Activated Channels",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "092QD4",
+        "name": "General",
+        "extension": null,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "1010",
+    "name": "Content Purpose",
+    "extension": null,
+    "children": [
+      {
+        "id": "1012",
+        "name": "Conversational",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "1014",
+        "name": "Entertainment Content",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "5S2VRK",
+        "name": "Informational",
+        "extension": null,
+        "children": [
+          {
+            "id": "1011",
+            "name": "Academic/Research Content",
+            "extension": null,
+            "children": []
+          },
+          {
+            "id": "1013",
+            "name": "Educational Content",
+            "extension": null,
+            "children": []
+          },
+          {
+            "id": "1017",
+            "name": "Instructional Content",
+            "extension": null,
+            "children": []
+          },
+          {
+            "id": "1020",
+            "name": "News",
+            "extension": null,
+            "children": []
+          },
+          {
+            "id": "BEZLLC",
+            "name": "Opinion & Op-Ed",
+            "extension": null,
+            "children": []
+          },
+          {
+            "id": "1021",
+            "name": "Review",
+            "extension": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1019",
+        "name": "Commerce",
+        "extension": null,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "1215",
+    "name": "Content Source",
+    "extension": null,
+    "children": [
+      {
+        "id": "1216",
+        "name": "Professionally Produced",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "1217",
+        "name": "User Generated",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "1218",
+        "name": "Aggregated/Curated",
+        "extension": null,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "1022",
+    "name": "Content Form Factor",
+    "extension": null,
+    "children": [
+      {
+        "id": "1023",
+        "name": "Audio",
+        "extension": null,
+        "children": [
+          {
+            "id": "REJJOG",
+            "name": "Podcast",
+            "extension": null,
+            "children": []
+          },
+          {
+            "id": "7OCXIZ",
+            "name": "Radio",
+            "extension": null,
+            "children": []
+          },
+          {
+            "id": "MJDJZY",
+            "name": "Event",
+            "extension": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1024",
+        "name": "Images/Galleries",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "1026",
+        "name": "Mixed",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "1027",
+        "name": "Textual",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "1028",
+        "name": "Video",
+        "extension": null,
+        "children": [
+          {
+            "id": "C2UKBG",
+            "name": "Show",
+            "extension": null,
+            "children": [
+              {
+                "id": "3927X6",
+                "name": "Episodic Show",
+                "extension": null,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "Y2MK22",
+            "name": "Event",
+            "extension": null,
+            "children": []
+          },
+          {
+            "id": "O3EQZQ",
+            "name": "Clip",
+            "extension": null,
+            "children": []
+          },
+          {
+            "id": "20L2OV",
+            "name": "Movie",
+            "extension": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1004",
+        "name": "Game",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "1029",
+        "name": "VR/AR",
+        "extension": null,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "MRkz4Q",
+    "name": "Brand Suitability and Risk",
+    "extension": null,
+    "children": [
+      {
+        "id": "bsr001",
+        "name": "Floor",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "bsr002",
+        "name": "High Risk",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "bsr003",
+        "name": "Medium Risk",
+        "extension": null,
+        "children": []
+      },
+      {
+        "id": "bsr004",
+        "name": "Low Risk",
+        "extension": null,
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": "1030",
+    "name": "*Content Language Extension",
+    "extension": "See ISO-639-1-alpha-2",
+    "children": []
+  },
+  {
+    "id": "1219",
+    "name": "*Content Source Geo Extension",
+    "extension": "See ISO-3166-1-alpha-3",
+    "children": []
+  }
+]
